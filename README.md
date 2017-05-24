@@ -1,2 +1,2 @@
 # hello-world
-my first project
+hello i love read,movie, journey.
